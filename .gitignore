@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Pytest
+.pytest_cache/
+
+# Playwright test artifacts
+test-results/
+
+# Allure
+allure-results/
+allure-report/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log

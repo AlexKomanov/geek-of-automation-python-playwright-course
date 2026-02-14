@@ -1,0 +1,5 @@
+Username,Password,Error Message
+locked_out_user,secret_sauce,"Epic sadface: Sorry, this user has been locked qwout."
+,,Epic sadface: Username is required
+standard_user,,Epic sadface: Password is required
+standard_user,a123,Epic sadface: Username and password do not match any user in this service
