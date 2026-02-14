@@ -2,6 +2,8 @@
 
 A robust end-to-end test automation framework for the [Sauce Demo](https://www.saucedemo.com/) e-commerce application, built with **Playwright**, **pytest**, and **Allure Report 3**.
 
+📺 **Watch the full course on YouTube:** [Playwright Python Course Playlist](https://www.youtube.com/playlist?list=PL1ZSrkGSJEGNdbf7k4Uf1m8rMXBITacsD)
+
 ## Features
 
 - **Page Object Model (POM)** — Clean separation of test logic and page interactions
